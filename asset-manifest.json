@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/benion-breaking-bad/static/css/main.a224737c.chunk.css",
+    "main.js": "/benion-breaking-bad/static/js/main.e68bc03c.chunk.js",
+    "main.js.map": "/benion-breaking-bad/static/js/main.e68bc03c.chunk.js.map",
+    "runtime-main.js": "/benion-breaking-bad/static/js/runtime-main.aa68e866.js",
+    "runtime-main.js.map": "/benion-breaking-bad/static/js/runtime-main.aa68e866.js.map",
+    "static/js/2.68fc3778.chunk.js": "/benion-breaking-bad/static/js/2.68fc3778.chunk.js",
+    "static/js/2.68fc3778.chunk.js.map": "/benion-breaking-bad/static/js/2.68fc3778.chunk.js.map",
+    "index.html": "/benion-breaking-bad/index.html",
+    "precache-manifest.6ae04223d300393b848d6e6b15267e40.js": "/benion-breaking-bad/precache-manifest.6ae04223d300393b848d6e6b15267e40.js",
+    "service-worker.js": "/benion-breaking-bad/service-worker.js",
+    "static/css/main.a224737c.chunk.css.map": "/benion-breaking-bad/static/css/main.a224737c.chunk.css.map",
+    "static/js/2.68fc3778.chunk.js.LICENSE.txt": "/benion-breaking-bad/static/js/2.68fc3778.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/benion-breaking-bad/static/media/bg.1be2d3a0.jpg",
+    "static/media/logo.png": "/benion-breaking-bad/static/media/logo.3795f66d.png",
+    "static/media/spinner.gif": "/benion-breaking-bad/static/media/spinner.235b9b3e.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aa68e866.js",
+    "static/js/2.68fc3778.chunk.js",
+    "static/css/main.a224737c.chunk.css",
+    "static/js/main.e68bc03c.chunk.js"
+  ]
+}
